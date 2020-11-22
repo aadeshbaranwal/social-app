@@ -1,0 +1,17 @@
+#tsparticles {
+    position: fixed;
+    left: 0px;
+    top:0px;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+}
+
+#textarea1 {
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2), 
+                0px 1px 1px 0px rgba(0, 0, 0, 0.14), 
+                0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+    margin-left: 2.4%;
+    margin-right: 2.4%;
+    background-color: white;
+}
